@@ -1,5 +1,5 @@
 // const url = 'http://localhost:8080/Profesionales'
-const url = 'http://localhost:8081/profesionales'
+const url = 'https://api2-profesionalesvol2.onrender.com/profesionales'
 
 const listarUsuarios = async () => {
     //Objeto del html donde se deslegará la información
